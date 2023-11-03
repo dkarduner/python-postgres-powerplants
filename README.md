@@ -7,4 +7,4 @@ It connects to a Postgres instance.
 Checkout "insert.py" to define data to insert.
 
 ## SQL Schema 
-"db_schema.pdf" contains how tables are related.
+"db_schema.pdf" contains info on how tables are related.
